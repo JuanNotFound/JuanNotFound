@@ -10,7 +10,8 @@
 
 ---
 
-<p align="center">"The only limit to our realization of tomorrow is our doubts of today."</p>
+<p align="center">"Live as if you were to die tomorrow. Learn as if you were to live forever."</p>
+<p> **Mahatma Gandhi**</p>
 
 ---
 
