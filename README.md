@@ -8,8 +8,25 @@
 
 <p font-weight: bold;">🇪🇸 Actualmente soy estudiante de Ingeniería de Software en España. Tengo mucha curiosidad por los proyectos de backend, redes y despliegue, ¡que puedes ver en mi perfil! No dudes en echar un vistazo.</p>
 
-<h2> My view on Software Engineering </h2>
+<h3> 🇺🇸 My view on Software Engineering </h3>
 
+<p><strong>Ikigai</strong> is a Japanese concept that means "a reason for being" or "a reason to wake up in the morning." It represents the intersection of four fundamental elements: what you love, what you are good at, what the world needs, and what you can be paid for. This concept encourages people to find fulfillment and balance in life by aligning their passions, skills, and opportunities, thus creating a sense of purpose and satisfaction.</p>
+
+<p>Fortunately, I found my passion in software engineering almost by accident. I wanted to be a doctor, but unfortunately (or fortunately), I didn't get into my "dream career" and ended up studying an applied science, Chemistry. After a year, I realized that it wasn't for me and that I couldn't see myself doing it for the rest of my life.</p>
+
+<p>I had always been passionate about computers; they evoked curiosity in me. However, at the time, I didn't give it much importance because my priority was to pursue my dream of becoming a doctor. After finishing my first year of Chemistry, I retook the university entrance exam and got into Software Engineering at the Universidad Politécnica de Madrid.</p>
+
+<p>It was there that I realized I had found my Ikigai.</p>
+
+<h3> 🇪🇸 Mi forma de ver la ingeniería de Software </h3>
+
+<p><strong>Ikigai</strong> es un concepto japonés que significa "una razón de ser" o "una razón para levantarse por la mañana." Representa la intersección de cuatro elementos fundamentales: lo que amas, lo que eres bueno haciendo, lo que el mundo necesita y por lo que te pueden pagar. Este concepto fomenta que las personas encuentren satisfacción y equilibrio en la vida al alinear sus pasiones, habilidades y oportunidades, creando así un sentido de propósito y satisfacción.</p>
+
+<p>Afortunadamente, encontré mi pasión en la ingeniería de software casi por accidente. Yo quería ser médico, pero desafortunadamente (o afortunadamente) no logré entrar en mi "carrera soñada" y terminé estudiando una ciencia aplicada, Química. Después de un año, me di cuenta de que eso no era lo mío y que no me veía haciendo eso toda mi vida.</p>
+
+<p>Siempre me habían apasionado los ordenadores; me despertaban curiosidad. Sin embargo, en su momento no le di importancia, ya que mi prioridad era cumplir el sueño de ser médico. Tras terminar el primer año de Química, volví a hacer el examen de acceso a la universidad y entré a estudiar Ingeniería de Software en la Universidad Politécnica de Madrid.</p>
+
+<p>Fue ahí donde me di cuenta de que había encontrado mi Ikigai.</p>
 
 ---
 
