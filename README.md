@@ -1,13 +1,12 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Juan Esteban</h1>
-<h3 align="center">🇺🇸 I am currently a Software Engineering student from Spain. I have a lot of curiosity about backend, network, and deployment projects, which you can see on my profile! Feel free to take a look. 🇪🇸 Actualmente soy estudiante de Ingeniería de Software en España. Tengo mucha curiosidad por los proyectos de backend, redes y despliegue, ¡que puedes ver en mi perfil! No dudes en echar un vistazo.</h3>
+<h3 align="left">🇺🇸 I am currently a Software Engineering student from Spain. I have a lot of curiosity about backend, network, and deployment projects, which you can see on my profile! Feel free to take a look. 🇪🇸 Actualmente soy estudiante de Ingeniería de Software en España. Tengo mucha curiosidad por los proyectos de backend, redes y despliegue, ¡que puedes ver en mi perfil! No dudes en echar un vistazo.</h3>
 
 - 🌱 I’m currently learning **Spring and GO**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JuanNotFound](https://github.com/JuanNotFound)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
