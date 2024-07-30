@@ -2,9 +2,9 @@
 
 <h1 align="center"> Welcome!/ ¡Bienvenido! </h1>
 
-<p style="font-size: 1.17em; font-weight: bold;">🇺🇸 I am currently a Software Engineering student from Spain. I have a lot of curiosity about backend, network, and deployment projects, which you can see on my profile! Feel free to take a look.</p>
+<p  font-weight: bold;">🇺🇸 I am currently a Software Engineering student from Spain. I have a lot of curiosity about backend, network, and deployment projects, which you can see on my profile! Feel free to take a look.</p>
 
-<p style="font-size: 1.17em; font-weight: bold;">🇪🇸 Actualmente soy estudiante de Ingeniería de Software en España. Tengo mucha curiosidad por los proyectos de backend, redes y despliegue, ¡que puedes ver en mi perfil! No dudes en echar un vistazo.</p>
+<p font-weight: bold;">🇪🇸 Actualmente soy estudiante de Ingeniería de Software en España. Tengo mucha curiosidad por los proyectos de backend, redes y despliegue, ¡que puedes ver en mi perfil! No dudes en echar un vistazo.</p>
 
 
 <p align="center">"The only limit to our realization of tomorrow is our doubts of today."</p>
