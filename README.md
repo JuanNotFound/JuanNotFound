@@ -1,13 +1,15 @@
 
 
-<h1 align="center"> I'm Juan Esteban</h1>
+<h1 align="center"> Welcome!/¡Bienvenido!</h1>
 
 <h3 align="left">🇺🇸 I am currently a Software Engineering student from Spain. I have a lot of curiosity about backend, network, and deployment projects, which you can see on my profile! Feel free to take a look.</h3>
 
 <h3 align="left"> 🇪🇸 Actualmente soy estudiante de Ingeniería de Software en España. Tengo mucha curiosidad por los proyectos de backend, redes y despliegue, ¡que puedes ver en mi perfil! No dudes en echar un vistazo.</h3>
 
-- 🌱 I’m currently learning **Spring,GO,CSS3 and HTML5**
+<em>"The only limit to our realization of tomorrow is our doubts of today."</em>
 
+- 🌱 I’m currently learning **Spring,GO,CSS3 and HTML5**
+- 🥇 This account its mainly for personal projects that I use to learn
 - 👨‍💻 All of my projects are available at [https://github.com/JuanNotFound](https://github.com/JuanNotFound)
 
 <p align="left">
