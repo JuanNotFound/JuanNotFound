@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Welcome!/ ¡Bienvenido! </h1>
+<h1 align="center"> Welcome! / ¡Bienvenido! </h1>
 
 <p  font-weight: bold;">🇺🇸 I am currently a Software Engineering student from Spain. I have a lot of curiosity about backend, network, and deployment projects, which you can see on my profile! Feel free to take a look.</p>
 
