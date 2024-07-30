@@ -8,6 +8,9 @@
 
 <p font-weight: bold;">🇪🇸 Actualmente soy estudiante de Ingeniería de Software en España. Tengo mucha curiosidad por los proyectos de backend, redes y despliegue, ¡que puedes ver en mi perfil! No dudes en echar un vistazo.</p>
 
+<h2> My view on Software Engineering </h2>
+
+
 ---
 
 <p align="center"><i>"Live as if you were to die tomorrow. Learn as if you were to live forever."</i></p>
@@ -15,9 +18,13 @@
 
 ---
 
+
+
+
 - 🌱 I’m currently learning **Spring,GO,CSS3 and HTML5**
 - 🥇 This account its mainly for personal projects that I use to learn
 - 👨‍💻 All of my projects are available at [https://github.com/JuanNotFound](https://github.com/JuanNotFound)
+- 🎨 The most importan and selected ones are available at: 
 
 <p align="left">
 </p>
