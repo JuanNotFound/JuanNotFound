@@ -6,7 +6,7 @@
 
 <h3 align="left"> 🇪🇸 Actualmente soy estudiante de Ingeniería de Software en España. Tengo mucha curiosidad por los proyectos de backend, redes y despliegue, ¡que puedes ver en mi perfil! No dudes en echar un vistazo.</h3>
 
-<em align="center">"The only limit to our realization of tomorrow is our doubts of today."</em>
+<p align="center">"The only limit to our realization of tomorrow is our doubts of today."</p>
 
 - 🌱 I’m currently learning **Spring,GO,CSS3 and HTML5**
 - 🥇 This account its mainly for personal projects that I use to learn
