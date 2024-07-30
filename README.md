@@ -10,8 +10,8 @@
 
 ---
 
-<p align="center">"Live as if you were to die tomorrow. Learn as if you were to live forever."</p>
-<p> **Mahatma Gandhi**</p>
+<p align="center"><i>"Live as if you were to die tomorrow. Learn as if you were to live forever."</i></p>
+<p align="center"><b>Mahatma Gandhi</b></p>
 
 ---
 
