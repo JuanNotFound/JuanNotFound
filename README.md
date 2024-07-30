@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Juan Esteban</h1>
-<h3 align="left">🇺🇸 I am currently a Software Engineering student from Spain. I have a lot of curiosity about backend, network, and deployment projects, which you can see on my profile! Feel free to take a look. 🇪🇸 Actualmente soy estudiante de Ingeniería de Software en España. Tengo mucha curiosidad por los proyectos de backend, redes y despliegue, ¡que puedes ver en mi perfil! No dudes en echar un vistazo.\br </h3>
+<h3 align="left">🇺🇸 I am currently a Software Engineering student from Spain. I have a lot of curiosity about backend, network, and deployment projects, which you can see on my profile! Feel free to take a look.</h3>
 
 <h3 align="left"> 🇪🇸 Actualmente soy estudiante de Ingeniería de Software en España. Tengo mucha curiosidad por los proyectos de backend, redes y despliegue, ¡que puedes ver en mi perfil! No dudes en echar un vistazo.</h3>
 
