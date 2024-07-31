@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Spring,GO,CSS3 and HTML5**
 - 🥇 This account its mainly for personal projects that I use to learn
 - 👨‍💻 All of my projects are available at [https://github.com/JuanNotFound](https://github.com/JuanNotFound)
-- 🎨 The most importan and selected ones are available at: 
+- 🎨 The most importan and selected ones are available down here: 
 
 <p align="left">
 </p>
